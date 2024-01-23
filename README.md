@@ -6,7 +6,10 @@ Abstract Many molecular system biology approaches recognize various interactions
 The WeiBI server is currently undergoing maintenance and will be freely accessible as soon as possible. Stay tuned for upcoming updates.
 
 **NOTE**
+WeiBi helps to identify entity interactions, not only protein-protein but also protein-gene with a confidence score. So the given PHP file has all the detail and algorithm but it won't work at the moment because of missing .sql file. We will add this data as soon as possible.
+
 We recommend no dissemenation of this data other than educational purposes, and must be practiced ONLY for learning purposes.
 
 **Contact**
 In case of any questions, suggestions, or technical errors, please write to us at aamirmehmood@sjtu.edu.cn.
+
