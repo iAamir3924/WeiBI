@@ -5,7 +5,7 @@ Abstract Many molecular system biology approaches recognize various interactions
 **Availability**
 The WeiBI server is currently undergoing maintenance and will be freely accessible as soon as possible. Stay tuned for upcoming updates.
 
-**NOT**
+**NOTE**
 We recommend no dissemenation of this data other than educational purposes, and must be practiced ONLY for learning purposes.
 
 **Contact**
